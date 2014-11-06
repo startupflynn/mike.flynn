@@ -1,64 +1,18 @@
-@import url(http://fonts.googleapis.com/css?family=Arvo:400,400italic);
-	
-
-	p{
-		color:#000000;
-		text_transform: uppercase; 
-		font-size:14px;
-	}
-
-
-	h2 {
-		color+red; 
-		margin-left:30%;
-	} 
-
-
-
-#name {
-	color:red;
-	font-size: 32px;
-	font-style:italic;
-	margin-left: 30% 
-}
-
-.notMyName{
-	text-transform: uppercase;
-	color: rgba(32,123,219,0.5);
-}
-
-div:hover{
-	color:rgba(32,123,219,0.5);
-}
-
-
-.button {
-	padding:10%px30%
-	90% 30%
-	border:10px solid #ee3e80;
-	color:#ee3e80;
-}
-
 
 h1 {
-	font-family: 'Arvo', serif;
-	color: #ee3e80;
+	color: #FFA319;
 
 }
-
-
-#inline {
-	background-color: green;
-	display: inline;
+.section_grayinback {
+	text-align: center;
+	margin:0 auto;
+	background: #f2f2f2;
+	color: #FFA319;
 }
 
-#block {
-	background-color: red;
-	display: block;
-}
-
-img {
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
+.section_blackinback {
+	text-align: center;
+	margin:0 auto;
+	background: #333;
+	color: #f7f7f7;
 }
