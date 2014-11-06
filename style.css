@@ -1,8 +1,16 @@
 
-h1 {
-	color: #FFA319;
-
+h1{
+	color: rgb(227, 108, 10);
 }
+
+.moveleft {
+	float: left;
+}
+
+.styleclear {
+	clear: ""
+}
+
 .section_grayinback {
 	text-align: center;
 	margin:0 auto;
