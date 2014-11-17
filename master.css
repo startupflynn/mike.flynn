@@ -1,0 +1,186 @@
+
+.background {
+        background-color: #333;
+        text-align: center; 
+}
+
+.pageheader {
+    font-size: 125%;
+    color:#f7f7f7;
+    background-color:#333;
+    text-align:center;
+    padding:5px;
+    float: center;
+ }
+
+
+.copyonpage {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.circular {
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+        -webkit-border-radius: 150px;
+        -moz-border-radius: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(assets/mflynn_profile_pic.png) no-repeat;
+}
+
+
+.highlightcopy {
+    color: rgb(227,108,10);
+}
+
+
+.section_blackinback {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin:0 auto;
+    background: #333;
+    color: #f7f7f7;
+}
+
+
+
+.bottomofpage {
+    text-align: center;
+    margin:50 auto;
+    background: #333;
+    color: #f7f7f7;
+}
+
+
+.clear {
+     clear: left;
+ }
+
+
+
+/*
+
+
+figure {
+    float: left;
+    width: 201px;
+    height: 210px;
+    background-color: #e7e3d8;
+    margin: 10%;
+    padding: 9px;
+    text-align: left;
+}
+
+figure img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #d6d6d6;
+}
+            
+figcaption {
+    color: #333;
+    font-weight: bold;
+    padding-left: 10px;
+    background-repeat: no-repeat;
+}
+ .nav {
+    color:#f7f7f7;
+    background-color:#333;
+    text-align:center;
+    padding:5px;
+    float: center;
+ }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color:rgb(227,108,10);
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color:rgb(208,108,10);
+}
+
+*/
+
+
+
+.section_grayinback {
+	font-family: 'Raleway', sans-serif;
+    text-align: center;
+	margin:0;
+	background: #f2f2f2;
+	float: left;
+}
+
+img.hero {
+	width: 1024;
+	height:324;
+}
+
+
+.copywrite {
+    font-size: 20%;
+    color: #B1BAC2;
+}
+
+/*
+.header {
+	font-size: 105%; 
+	color: #FFA319;
+	float: left;;
+}
+
+.nav {
+	color: #FFA319;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	float: left;
+}
+
+
+.section_hero {
+	text-align: left;
+	margin:0 auto;
+	background: white;
+	color: black;
+	float: left;
+
+}
+
+
+
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+
+     */
